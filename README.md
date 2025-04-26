@@ -1,2 +1,4 @@
 # mymacbookpro
-Random Mac stuff
+
+Emulators:
+https://github.com/OpenEmu/OpenEmu
